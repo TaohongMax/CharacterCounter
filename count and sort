@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/*统计各类字符的数量*/
 int main()
 {
     int xiaoxie,daxie,num,other,i;
